@@ -1,5 +1,15 @@
-
 body {
 	text-align: center;
 	background-color: #606060;
+}
+
+h1 {
+	color: orangered;
+}
+h2{
+	color: white;
+}
+header{
+	background: gray;
+	border-bottom: orangered;
 }
